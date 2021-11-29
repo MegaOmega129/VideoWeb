@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Comic Sans MS';
+}
+
+body{
+    margin-left: 30px;
+    background-color: #9DE8FF;
+}
+
+img{
+    position: absolute;
+    top: 10%;
+    left: 57%;
+    width: 500px;
+    height: 550px;
+}
+
+audio, video{
+    margin: 30px 0px 0px 0px;
+}
+
+h1{
+    letter-spacing: -2px;
+}
